@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.quites h1{
+    font-size: 5rem;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    padding: 30px;
+}
+.quites p{
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+.quites .quotes-btn{
+    padding: 30px 60px;
+border-radius: 5px;
+background-color: rgb(2, 2, 87);
+color: beige
+}
+.quites .quotes-btn:hover{
+    background-color: rgb(19, 61, 19);
+}
+.quote-output{
+
+padding: 50px;
+font-weight: 500;
+margin-top: 20px;
+font-size: 3rem;
+}
